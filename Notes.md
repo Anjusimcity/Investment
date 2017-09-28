@@ -19,3 +19,12 @@ It is important that investors understand what they do and don’t know.
 They should never be talked into investing in something that they don’t understand or are uncomfortable with
 
 Read more: Investing 101: Knowing Yourself http://www.investopedia.com/university/beginner/beginner3.asp#ixzz4tlF5nRRo 
+
+What are Asset classes?
+-----------------------
+An asset class is a group of securities that exhibits similar characteristics, behaves similarly in the marketplace and is subject to the same laws and regulations
+
+The Four asset classes are equities(or stocks), fixed income(or bonds/Annuities), cash equivalents(or money market instruments) and Others (hedge funds, commodities, real estate, private equity)
+
+1. Equities: These are the shares in the ownership of publicly owned businesses.
+2. Cash Equivalents: These are Cash and short term liquid securities like Govt issued bonds, CDS, Banker's Acceptance, Euros, Commercial paper.
