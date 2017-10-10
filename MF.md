@@ -10,3 +10,5 @@ There is no limit on the number of shares that can be issued by a Mutual Fund.
 Seed Capital:
 Initial investment amount that should be atleast $100,000 before the shares are distributed to the public. 
 MF is created from the Seed capital which is supplied by fund sponser.
+
+Assets under management (AUM) refers to the total market value of investments managed by a mutual fund, money management firm, hedge fund, portfoliomanager, or other financial services company.
